@@ -8,7 +8,7 @@ local player = Players.LocalPlayer
 local workspace = workspace
 
 -- Tunables
-local SLIDE_DISTANCE = 4.       -- how far left/right per teleport
+local SLIDE_DISTANCE = 10.       -- how far left/right per teleport
 local SLIDE_SPEED = 0                -- seconds per teleport
 local MIRAGE_COUNT = 4          -- number of rapid positions
 local RANDOM_JITTER = 0.5      -- small Z/Y jitter for natural look
